@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manueldinisjunior
-- 👀 I’m interested in ... Software Engineering, Web Development, Data Science
+- 👀 I’m interested in ... Software Engineering, Web Development, Data Science & AI
 - 🌱 I’m currently learning ... Software Engineering & Personal Development
 - 💞️ I’m looking to collaborate on ... Web Development & Software Development
 - 📫 How to reach me ... manueldinisjunior@gmail.com | https://manueldinisjunior.com
