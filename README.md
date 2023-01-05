@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
 
-<p align="center"> <a href="https://manueldinisjunior.com" target="blank"></a> </p>
+<p align="center"> <a href="https://manueldinisjunior.com">< target="blank"> alt="Web Portfolio"</a> </p>
 
 # 💫 About Me:
     🌱 I’m currently learning Software Engineering & German  
