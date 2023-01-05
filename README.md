@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-    🌱 I’m currently learning German<br><br>    
-    👯 I’m looking to collaborate on Website & Apps Development<br><br>   
-    👨‍💻 All of my projects are available at https://manueldinisjunior.com<br><br>
-    📫 How to reach me info@manueldinisjunior@gmail.com<br>
+    🌱 I’m currently learning German  
+    👯 I’m looking to collaborate on Website & Apps Development   
+    👨‍💻 All of my projects are available at <h1 href="https://manueldinisjunior.com">Web-Portfolio</h1>
+    📫 How to reach me <h1 href="mailto:info@manueldinisjunior@gmail.com">E-Mail</h1>
 
 
 ## 🌐 Socials:
