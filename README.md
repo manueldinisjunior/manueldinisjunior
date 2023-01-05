@@ -3,7 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/manueldinisjr" target="blank"><img src="https://img.shields.io/twitter/follow/manueldinisjr?logo=twitter&style=for-the-badge" alt="manueldinisjr" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+# 💫 About Me:
+    🌱 I’m currently learning Software Engineering & German  
+    👯 I’m looking to collaborate on Website & Apps Development   
+    👨‍💻 All of my projects are available at my web-portfolio: https://manueldinisjunior.com
+    📫 How to reach me: info@manueldinisjunior.com
+
+
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/manueldinisjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manueldinisjr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-dinis-junior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-dinis-junior/" height="30" width="40" /></a>
@@ -22,14 +29,7 @@
 ____________________________-
 
 
-# 💫 About Me:
-    🌱 I’m currently learning Software Engineering & German  
-    👯 I’m looking to collaborate on Website & Apps Development   
-    👨‍💻 All of my projects are available at my web-portfolio: https://manueldinisjunior.com
-    📫 How to reach me: info@manueldinisjunior.com
 
-
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manueldinisjunior) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manueldinisjunior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-dinis-junior/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdinisjr95) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manueldinisjr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@manueldinisjunior) 
 
 # 💻 Tech Stack:
