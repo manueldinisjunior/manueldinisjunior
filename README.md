@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
 
-<p align="center"> <a href="https://twitter.com/manueldinisjr" target="blank"><img src="https://img.shields.io/twitter/follow/manueldinisjr?logo=twitter&style=for-the-badge" alt="manueldinisjr" /></a> </p>
+<p align="center"> <a href="https://manueldinisjunior.com" target="blank"></a> </p>
 
 # 💫 About Me:
     🌱 I’m currently learning Software Engineering & German  
