@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
 
-<p align="center"> <a href="https://manueldinisjunior.com">< target="blank"> alt="Web Portfolio"</a> </p>
+<p align="center"> <a href="https://manueldinisjunior.com">Web-Portfolio</a> </p>
 
 # 💫 About Me:
     🌱 I’m currently learning Software Engineering & German  
-    👯 I’m looking to collaborate on Website & Apps Development   
-    👨‍💻 All of my projects are available at my web-portfolio: https://manueldinisjunior.com
-    📫 How to reach me: info@manueldinisjunior.com
+    👯 I’m looking to collaborate on Website & App Development   
+    📫 How to reach me: <a href="mailto:info@manueldinisjunior.com">Web-Portfolio</a>
 
 
 ## 🌐 Socials:
