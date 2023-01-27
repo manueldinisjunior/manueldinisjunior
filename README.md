@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web development, AI, Software Development, Mobile App Development**
 
-- 📫 How to reach me **@manueldinisjunior@gmail.com**
+- 📫 How to reach me **manueldinisjunior@gmail.com**
 
 - 📄 Know about my experiences [HTTPS://MANUELDINISJUNIOR.COM](HTTPS://MANUELDINISJUNIOR.COM)
 
