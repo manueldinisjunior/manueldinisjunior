@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **manueldinisjunior@gmail.com**
 
-- 📄 Know about my experiences [HTTPS://MANUELDINISJUNIOR.COM](HTTPS://linkedin.com/in/manuel-dinis-junior)
+- 📄 Know about my experiences [LinkedIn](HTTPS://linkedin.com/in/manuel-dinis-junior)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
