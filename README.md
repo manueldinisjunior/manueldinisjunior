@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👯 I’m looking to collaborate on [Website & Apps Development](https://www.linkedin.com/in/manuel-dinis-junior/)
+- 👯 I’m looking to collaborate on [Website & Apps Development](https://www.manueldinisjunior.com/)
 
 - 👨‍💻 All of my projects are available at [HTTPS://MANUELDINISJUNIOR.COM](HTTPS://MANUELDINISJUNIOR.COM)
 
-- 💬 Ask me about **Web development, AI, Software Development, Mobile App Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **manueldinisjunior@gmail.com**
 
-- 📄 Know about my experiences [HTTPS://MANUELDINISJUNIOR.COM](HTTPS://MANUELDINISJUNIOR.COM)
+- 📄 Know about my experiences [HTTPS://MANUELDINISJUNIOR.COM](HTTPS://linkedin.com/in/manuel-dinis-junior)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
