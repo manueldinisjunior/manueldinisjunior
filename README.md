@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
 <h3 align="center">A passionate Platforms Developer from Maputo, Mozambique.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png](https://images.velog.io/images/6047198844/post/873b23c4-4119-4623-8bf8-4f8d54e34487/5eKX.gif)" alt="Manuel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png](https://images.velog.io/images/6047198844/post/873b23c4-4119-4623-8bf8-4f8d54e34487/5eKX.gif" alt="Manuel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manueldinisjr" target="blank"><img src="https://img.shields.io/twitter/follow/manueldinisjr?logo=twitter&style=for-the-badge" alt="manueldinisjr" /></a> </p>
 
