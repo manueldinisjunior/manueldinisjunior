@@ -1,18 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
-<h3 align="center">A passionate Platforms Developer from Maputo, Mozambique.</h3>
-
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-
-<br>
-- 🌱 I’m currently learning **Software Engineering**
-
-- 👯 I’m looking to collaborate on [Website & Apps Development](https://www.manueldinisjunior.com/)
-
-- 👨‍💻 All of my projects are available at [HTTPS://MANUELDINISJUNIOR.COM](HTTPS://MANUELDINISJUNIOR.COM)
-
-- 💬 Ask me about **Software Development**
-
-- 📫 How to reach me **manueldinisjunior@gmail.com**
+<h3 align="center">A passionate Web Developer from Maputo, Mozambique.</h3>
 
 - 📄 Know about my experiences [LinkedIn](HTTPS://linkedin.com/in/manuel-dinis-junior)
 
