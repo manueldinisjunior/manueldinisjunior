@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
-<h3 align="center">A passionate Web Developer from Maputo, Mozambique.</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
