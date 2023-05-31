@@ -16,11 +16,6 @@
 
 <br/>
 
-    
-
-  <h3 align="center" href="https://manueldinisjunior/Readme.md">Web Portfolio</h3>
-
-
 ## About The Project
 
 ![Screen Shot](https://manueldinisjunior.com/wp-content/uploads/2023/05/head-e1685546209328.png)
