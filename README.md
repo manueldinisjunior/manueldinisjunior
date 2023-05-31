@@ -16,4 +16,4 @@
 
 <br/>
 
-## <h3 align="center" width="100" height="100" href="https://manueldinisjunior.com" target="blank">>![Screen Shot](https://manueldinisjunior.com/wp-content/uploads/2023/05/head-e1685546209328.png)</h3>
+## <h3 align="center" width="100" height="100" href="https://manueldinisjunior.com" target="blank">![Screen Shot](https://manueldinisjunior.com/wp-content/uploads/2023/05/head-e1685546209328.png)</h3>
