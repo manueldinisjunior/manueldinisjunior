@@ -16,10 +16,10 @@
 
 <br/>
 
-    <a href="https://github.com/manueldinisjunior/Readme.md">View Demo</a>
+    
 
   <h3 align="center">Manuel Dinis Júnior</h3>
-
+<a href="https://github.com/manueldinisjunior/Readme.md">View Demo</a>
 
 
 ## About The Project
