@@ -17,7 +17,3 @@
 <br/>
 
 ## <h3 align="center" width="100" height="100">![Screen Shot](https://manueldinisjunior.com/wp-content/uploads/2023/05/head-e1685546209328.png)</h3>
-
-* []()
-* []()
-* []()
