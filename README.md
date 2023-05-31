@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A Passionate: Web Design | Web Developer | Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/manueldinisjunior/Readme.md">
-    <img src="https://manueldinisjunior.com/wp-content/uploads/2022/05/content.png" alt="Logo" width="80" height="80">
+    <img src="https://manueldinisjunior.com/wp-content/uploads/2022/05/content.png" alt="Logo" width="50" height="50">
   </a>
 
 <h3 align="center">Connect with me:</h3>
