@@ -16,4 +16,4 @@
 
 <br/>
 
-## <h3 align="center">![Screen Shot](https://manueldinisjunior.com/wp-content/uploads/2023/05/head-e1685546209328.png)</h3>
+## <h3 align="center">![Screen Shot](https://https://media1.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b9523efdytlru4x104fj34zdvz0x5z5hqwwqqn1bznsu&ep=v1_stickers_related&rid=giphy.gif&ct=s)</h3>
