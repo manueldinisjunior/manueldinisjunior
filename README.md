@@ -2,7 +2,7 @@
 <h3 align="center">Professional Web Design | Web Developer | Software Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/manueldinisjunior/Readme.md">
+  <a href="https://manueldinisjunior/com">
     <img src="https://manueldinisjunior.com/wp-content/uploads/2022/05/content.png" alt="Logo" width="50" height="50">
   </a>
 
