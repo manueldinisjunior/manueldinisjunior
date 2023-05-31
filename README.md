@@ -15,10 +15,7 @@
 </p>
 
 <br/>
-<p align="center">
-  <a href="https://github.com/manueldinisjunior/Readme.md">
-    <img src="https://manueldinisjunior.com/wp-content/uploads/2022/05/content.png" alt="Logo" width="80" height="80">
-  </a>
+
 
   <h3 align="center">Manuel Dinis Júnior</h3>
 
