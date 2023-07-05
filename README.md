@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
 <h3 align="center">Professional Web Design | Web Developer | Software Engineer</h3>
 
-<p align="center">
-  <a href="https://manueldinisjunior/com">
-    <img src="https://manueldinisjunior.com/wp-content/uploads/2022/05/content.png" alt="Logo" width="50" height="50">
-  </a>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/manueldinisjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manueldinisjr" height="30" width="40" /></a>
