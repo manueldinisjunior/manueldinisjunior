@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
-<h3 align="center">Professional Web Design | Web Developer | Software Engineer</h3>
+<h3 align="center"> Software Engineer | UI UX Designer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
