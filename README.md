@@ -5,7 +5,7 @@
 <p align="center">
 </a>
 
-<a text-align="center" href="https://www.linkedin.com/in/manuel-dinis-junior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-dinis-junior/" height="30" width="40" />
-
+<a href="https://www.linkedin.com/in/manuel-dinis-junior/" text-align="center" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-dinis-junior/" height="30" width="40" />
+</a>
 <br/>
 
