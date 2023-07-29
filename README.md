@@ -11,4 +11,3 @@
 
 <br/>
 
-## <h3 align="center" heigh ="150px" width = "150px">![Screen Shot](https://manueldinisjunior.com/wp-content/uploads/2023/05/head-e1685546209328.png)</h3>
