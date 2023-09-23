@@ -11,5 +11,5 @@
 
 
 ### HOLA! 👋🏽👋🏽
-<a href="https://github.com/kelcheone">
-  <img src="https://raw.githubusercontent.com/kelcheone/githubstats/master/generated/languages.svg"   alt="Kevin Kelche's github stats" /></a>
+<a href="https://github.com/manueldinisjunior">
+  <img src="https://raw.githubusercontent.com/manueldinisjunior/githubstats/master/generated/languages.svg"   alt="Manuel's github stats" /></a>
