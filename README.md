@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel Dinis Júnior</h1>
+### HOLA! 👋🏽 <h1 align="center">Hi 👋🏽, I'm Manuel Dinis Júnior</h1>
 <h3 align="center"> Software Engineer | UI/UX & Graphic Designer</h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -9,6 +9,3 @@
 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-dinis-junior/" height="30" width="40" >
 
-### HOLA! 👋🏽👋🏽
-
-  <img src="https://raw.githubusercontent.com/manueldinisjunior/githubstats/master/generated/languages.svg" align="center" alt="Manuel's github stats" /></a>
