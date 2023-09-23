@@ -8,3 +8,8 @@
 <a href="https://www.linkedin.com/in/manueldinisjunior/" align="center" target="blank">
 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-dinis-junior/" height="30" width="40" >
+
+
+### HOLA! 👋🏽👋🏽
+<a href="https://github.com/kelcheone">
+  <img src="https://raw.githubusercontent.com/kelcheone/githubstats/master/generated/languages.svg"   alt="Kevin Kelche's github stats" /></a>
