@@ -11,4 +11,4 @@
 
 ### HOLA! 👋🏽👋🏽
 
-  <img src="https://raw.githubusercontent.com/kelcheone/githubstats/master/generated/languages.svg" align="center" alt="Manuel's github stats" /></a>
+  <img src="https://raw.githubusercontent.com/manueldinisjunior/githubstats/master/generated/languages.svg" align="center" alt="Manuel's github stats" /></a>
