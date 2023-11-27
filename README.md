@@ -2,7 +2,7 @@
 I am a software engineer, I specialize in solving problems using cutting-edge technology and tools.
 
 - 🌐 Visit my [Web Portfolio](https://manueldinisjunior.com/) for more information and to get in touch.
-
+ 
 ---
 
 <p align="center">
