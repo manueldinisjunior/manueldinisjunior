@@ -25,7 +25,7 @@ I am a software engineer, I specialize in solving problems using cutting-edge te
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootsrap-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Android](https://img.shields.io/badge/bootsrap-%231572B6.svg?style=for-the-badge&logo=android&logoColor=white)
+  ![Git Lab](https://img.shields.io/badge/bootsrap-%231572B6.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Koitlin](https://img.shields.io/badge/koitlin-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
