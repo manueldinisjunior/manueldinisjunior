@@ -1,5 +1,5 @@
 # Hi 👋 I am Manuel! 
-I am a software engineer, I specialize in solving problems using cutting-edge technology and tools.
+I am a software engineer, I specialize in solving problems using cutting-edge technology.
 
 - 🌐 Visit my [Web Portfolio](https://manueldinisjunior.com/) for more information and to get in touch.
  
