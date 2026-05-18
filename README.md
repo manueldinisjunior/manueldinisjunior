@@ -2,7 +2,7 @@
 
 I am a web developer, I specialize in solving problems using cutting-edge technology.
 
-🌐 [Web Portfolio](https://manueldinisjunior.com/) for more information and to get in touch.
+🌐 [Web Portfolio](https://manueldinisjunior.de/) for more information and to get in touch.
  
 ---
 
