@@ -5,12 +5,6 @@ I am a web developer specializing in solving problems with modern web technology
 🌐 [Web Portfolio](https://manueldinisjunior.de/) for more information and contact.
 
 ---
-
-<p align="center">
-  <img src="https://your-vercel-app.vercel.app/api/top-langs?username=manueldinisjunior" width="420" alt="Top languages used by Manuel Dinis Junior">
-</p>
-
----
 <p align="center">
 
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
