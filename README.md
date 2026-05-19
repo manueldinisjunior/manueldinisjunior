@@ -7,7 +7,7 @@ I am a web developer, I specialize in solving problems using cutting-edge techno
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueldinisjunior&layout=compact" width="400" height="200">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manueldinisjunior&layout=compact" width="400" height="200">
 </p>
 
 ---
