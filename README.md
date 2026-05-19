@@ -1,13 +1,13 @@
 🪪 Introduction:
 
-I am a web developer, I specialize in solving problems using cutting-edge technology.
+I am a web developer specializing in solving problems with modern web technology.
 
-🌐 [Web Portfolio](https://manueldinisjunior.de/) for more information and to get in touch.
- 
+🌐 [Web Portfolio](https://manueldinisjunior.de/) for more information and contact.
+
 ---
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manueldinisjunior&layout=compact" width="400" height="200">
+  <img src="https://your-vercel-app.vercel.app/api/top-langs?username=manueldinisjunior" width="420" alt="Top languages used by Manuel Dinis Junior">
 </p>
 
 ---
