@@ -1,6 +1,6 @@
 🪪 Introduction:
 
-I am a full stack software developer specializing in solving problems with modern web technology.
+I am a full stack software developer specializing in solving problems with modern technology.
 
 🌐 [Web Portfolio](https://manueldinisjunior.de/) for more information and contact.
 
