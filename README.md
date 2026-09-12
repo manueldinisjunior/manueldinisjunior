@@ -1,13 +1,12 @@
 🪪 Introduction:
-
-I am a Web & Softwareentwickler in the Region of Hannover, Lower Saxony, Germany, specializing in solving problems using modern software development technology.
-
+Manuel Dinis Júnior | Web & Softwareentwickler in Hannover
 💻 Web- & Softwareentwickler
 🛠️ WordPress · WooCommerce · JavaScript · PHP · KI
 ⚡ Schnelle, skalierbare Weblösungen
 🚀 Projekte & Portfolio ↓
 
 🌐 [Web Portfolio](https://manueldinisjunior.de/) for more information and contact.
+I am a Web & Softwareentwickler in the Region of Hannover, Lower Saxony, Germany, specializing in solving problems using modern software development technology.
 
 ---
 <p align="center">
