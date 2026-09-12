@@ -4,7 +4,7 @@
 Ich bin darauf spezialisiert, Probleme mithilfe moderner Softwareentwicklungstechnologie zu lösen.
 
 <br>💻 Web- & Softwareentwickler
-<br>🛠️ WordPress · WooCommerce · Shopify · React · Bootstrap · JavaScript · PHP · TypeScript · Python · Java · KI
+<br>🛠️ WordPress · WooCommerce · Shopify · React · Bootstrap · JavaScript · PHP · TypeScript · Python · C · C# · Java · KI
 <br>⚡ Schnelle, skalierbare Weblösungen
 <br>🚀 Projekte & Portfolio ↓
 
