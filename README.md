@@ -1,5 +1,7 @@
 🪪 Introduction:
+
 <br>Manuel Dinis Júnior | Web & Softwareentwickler in Hannover
+
 <br>💻 Web- & Softwareentwickler
 <br>🛠️ WordPress · WooCommerce · JavaScript · PHP · KI
 <br>⚡ Schnelle, skalierbare Weblösungen
