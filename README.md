@@ -1,6 +1,11 @@
 🪪 Introduction:
 
-I am a full stack software developer specializing in solving problems with modern technology.
+I am a Web & Softwareentwickler in the Region of Hannover, Lower Saxony, Germany, specializing in solving problems using modern software development technology.
+
+💻 Web- & Softwareentwickler
+🛠️ WordPress · WooCommerce · JavaScript · PHP · KI
+⚡ Schnelle, skalierbare Weblösungen
+🚀 Projekte & Portfolio ↓
 
 🌐 [Web Portfolio](https://manueldinisjunior.de/) for more information and contact.
 
